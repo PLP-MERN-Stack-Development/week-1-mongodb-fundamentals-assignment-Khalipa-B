@@ -9,7 +9,7 @@
 
 ## Files
 
-- `insert_books.js`: Inserts 10+ books into the database.
+- `insert_books.js`: Inserts 12 books into the database.
 - `queries.js`: Contains all MongoDB queries for basic, advanced, and aggregation tasks.
 - `screenshot.png`: Screenshot of MongoDB Compass showing inserted data.
 
